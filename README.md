@@ -18,11 +18,11 @@ Font :
 
 Couleurs : 
 - Orange : #C8650C
-- Background Bonus : rgba(0, 0, 0, 0.2)
 
 Linear-gradients :
 
 - "See More" button : linear-gradient(180deg, #C8650C 0%, #512702 100%);
+- Background Bonus : linear-gradient(180deg, #171717 0%, #252525 100%)
 - "Abstract" & "Minimal" title : linear-gradient(90deg, rgba(255, 255, 255, 0.4) -0.31%, #FFFFFF 49.69%, rgba(255, 255, 255, 0.4) 99.69%);
 
 ---
