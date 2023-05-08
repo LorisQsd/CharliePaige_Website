@@ -97,6 +97,11 @@ body {
     font-style: italic;
 }
 
+.first-name-title, .last-name-title, .photo-title {
+    opacity: 0;
+    transition: all ease-out 300ms;
+}
+
 /* RIGHT CONTENT */
 .right-content {
     width: 30%;
